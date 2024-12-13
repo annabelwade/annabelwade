@@ -1,7 +1,7 @@
 ## Hi, I'm Annabel 👋
 <img src="eldoradoCanyonn.jpeg" width="500" />
 
-I am a senior undergraduate at the University of Washington majoring in Applied Mathematics: Data Science with a minor in Oceanography. I am currently working on deep learning based smoke detection in collaboration with NOAA Global Systems Laboratory, and previously worked on mapping ocean energetics at the UW School of Oceanography. 
+I am a senior undergraduate at the University of Washington majoring in Applied Mathematics: Data Science with a minor in Oceanography. I am currently working on deep learning based smoke detection in collaboration with NOAA Global Systems Laboratory ([SmokeViz](https://github.com/annabelwade/SmokeViz/tree/test-set-analysis)) and previously worked on mapping ocean energetics at the UW School of Oceanography ([OceanSciencesMeeting24-poster](https://github.com/annabelwade/OSM24-poster-Wade)).
 
 My research interests include analyzing large geospatial datasets and developing machine learning workflows for gaining environmental insights in application areas like 
 - wildfires 🔥
@@ -10,6 +10,7 @@ My research interests include analyzing large geospatial datasets and developing
 
 In my free time, you can find me biking 🚲, taking care of my 2 cats 🐈🐈‍⬛, cooking 🥘, and trying to beat Seattle's grey weather with indoor hydroponic farming 🌱.
 
+Reach me at `annawade` at `uw` dot `edu`.
 
 <!--
 🔥💧🥣
